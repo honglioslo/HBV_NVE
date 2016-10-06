@@ -1236,38 +1236,6 @@ operation:  M+x ---> find-grep-dired ---> directory (if right, enter) str1 ----
                     替换完成后保存替换： Ctrl + x --> s
 Rectangular operation: Ctrl + x r ..
 
-6.6 Data Datasets
-
-
-
-
-
-
-
-Databasearkiver: 	Sanntid, Hytran, Hykval, Hydag_t, Hydag
-Kontrollprogrammer: 	Prikon, Kondag
-Nederst: 		Valgene i programmet ”Finut” for å få sett forskjellige data.
-
-/hdata/grid/medata/rr is precipitation.
-stored in the hydrologic year, start from August, September (the first month of snow).
-6.6.1 Discharge data: Start&
-
-
-DAGUT and then click Start program.
-
-Click Hent.
-
-Type the id of time series and then click <=Søk vha. Serie-id. If there is no problem, then click Bruk serir. If the id of time serie has some problem, Bruk Serie will be grey and cannot be clicked.
-
-The searched results came out and click Alle år på, meaning choose all the year. (Alle år av, none of them; Alle år på mellon, choose several continue years). Then click Direkte til arbeidstabell, to save the results.
-
-This show the results of last step, no change was necessary (maybe check of the results). Click Lagre på fil, meansing save to file.
-
-Choose the preferred format, usually Vardat II. And the click Send til Skriver.
-
-Find the destination file, usually the home directory (where you start Start).
-
-The message of success. Good luck!
 Tips about Norwegian
 Søk vha. Seirie-id: search via id.
 Lukk vindu: close the window.
