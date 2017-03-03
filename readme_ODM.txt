@@ -1173,37 +1173,6 @@ Set_env: /hdata/grid/medata/  is the file path of the grid precipitation data. (
 In bash should set the environment variable first, open .bashrc file, to set.
 Export VariableName=/hdata/fou/personli……
 Or set some thing, like noclobber to stop file being over-written.
-6 Note in NVE
-6.1 Computer
-Usename: holi       
-Gate card code: 8503.
-Wifi: wlan4339 wzk3Du1t8a
-Glitra is to run model;
-Vigga is to compile model. g++ -o output sourcecode.cpp
-Personal file:  /hdata/fou/personlig/holi
-Username is holi and the password is eyk149.
-6.1.1 Log at home:
-http://webb.nve.no/ts/
-Start-> search programs and files->check point endpoint connect-> 
-Password is eyk149  
-Server adress: gatekeeper.nve.no
-6.2 C++ Note
-** the array is a pointer.
-. when the object is not a pointer.
-->: when the object is a pointer.
-6.3 Linux command
-Df: display free disk space
-Du: display  the file used space
-Diff: difference between files
-main.exe &: run in background.
-Export: change the environnement variable, such as export DISPLAY=*****.
-Env : see the environment variable.
-Sh: start to write sbatch script.
-Dos2unix: examine the newline in window or unix format.
-Xterm: to open a new window based on the current directory.
-! : force to act.
-6.4 Matlab note
-Compile to a c++ libray.  mcc -W cpplib:myLib -T link:lib myfun(titan)
 
 6.5 Emacs note
 Ctrl+c: in the middle of the page.
