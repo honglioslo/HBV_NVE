@@ -25,4 +25,6 @@ parameters files: hbv_common_parameters.dta  hbv_landsurface_parameters.dta  hbv
 3. dew
 	hbv_*****.var
 
+  run the model
+  /hdata/fou/DistModel/DistHbv/Source/hbv_2.12_general/dew control_dew.txt
 
