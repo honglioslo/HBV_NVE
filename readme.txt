@@ -28,3 +28,14 @@ parameters files: hbv_common_parameters.dta  hbv_landsurface_parameters.dta  hbv
   run the model
   /hdata/fou/DistModel/DistHbv/Source/hbv_2.12_general/dew control_dew.txt
 
+ run the model
+  /hdata/fou/DistModel/DistHbv/Source/hbv_2.12_general/dew control_dew.txt
+  
+  
+  ------------------------------------------------------------------------------------------------
+  linux command
+  basic commands: https://www-uxsup.csx.cam.ac.uk/pub/doc/suse/suse9.0/userguide-9.0/ch24s04.html
+  shell script: https://www.linux.com/learn/writing-simple-bash-script
+  cd: entere a directory
+  ls: 
+  source
