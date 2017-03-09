@@ -31,6 +31,8 @@ parameters files: hbv_common_parameters.dta  hbv_landsurface_parameters.dta  hbv
  run the model
   /hdata/fou/DistModel/DistHbv/Source/hbv_2.12_general/dew control_dew.txt
   
+  -------------------------------------------------------------------------------------
+  run on windowns
   
   ------------------------------------------------------------------------------------------------
   linux command
