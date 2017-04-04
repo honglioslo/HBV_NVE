@@ -21,7 +21,8 @@ parameters files: hbv_common_parameters.dta  hbv_landsurface_parameters.dta  hbv
 1. mask
 
 2. pre
-
+pre_out.txt: gave information about pre running
+out: waterland.txt; landscape.txt; grid_index.txt
 3. dew
 	hbv_*****.var
 
